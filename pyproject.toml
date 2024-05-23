@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_kytrawebhookhttp"
+description = "A ComfyUI node that utilizes Moviepy to convert and send your images or videos to a webhook endpoint directly from ComfyUI."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/KytraScript/ComfyUI_KytraWebhookHTTP"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_KytraWebhookHTTP"
+Icon = ""
